@@ -1,14 +1,21 @@
+---
+icon: LiBookOpen
+---
 # Corso AI Generativa & Didattica - Liceo "F. Mengaroni"
 
 ## Il Progetto
 
-Questo *repository* ospita il *vault* Obsidian creato a supporto dei corsi di formazione sull'applicazione delle **Intelligenze Artificiali Generative alla didattica della grafica e della composizione multimediale**.
-
 Il percorso formativo, inserito nel Progetto Mida, è stato riservato al corpo docente del Liceo Artistico "F. Mengaroni" di Pesaro e si è svolto tra dicembre 2025 e gennaio 2026.
 
-- Curatore dei corsi: **prof. Davide Riboli**, Accademia di Belle Arti “M. Sironi”, Sassari
+Questo *repository* ospita il *vault* Obsidian creato a supporto dei corsi di formazione sull'applicazione delle **Intelligenze Artificiali Generative alla didattica della grafica e della composizione multimediale**.
+
+- Curatore dei moduli: **prof. Davide Riboli**, Accademia di Belle Arti “M. Sironi”, Sassari
 - Tutor Grafica: **prof.ssa Luciana Forlani**, Liceo Artistico “F. Sironi”, Pesaro
 - Tutor Video: **prof.ssa Silvia Vimini**, Liceo Artistico “F. Sironi”, Pesaro
+
+> [!NOTE] AVVISO AI NAVIGANTI
+> Una versione in forma di sito web, con tutti i contenuti del *repository* è presente all’indirizzo: https://publish.obsidian.md/progetto-mida e sarà mantenuta *online* per tutta la durata degli incontri.
+> La password di accesso sarà comunicata al primo incontro di entrambi i moduli.
 
 ## Struttura del Vault
 
@@ -24,11 +31,12 @@ Il *vault* contiene dispense, appunti e risorse organizzati secondo la logica de
 Sebbene i contenuti principali — soprattutto file di testo Markdown e PDF — siano leggibili direttamente qui su GitHub, per navigare correttamente tra i collegamenti e visualizzare i grafi concettuali è fondamentale usare Obsidian.
 
 1.  **Scarica il repository:**
-    * Clicca sul pulsante verde in alto a dx e poi **Download ZIP**.
-    * Estrai la cartella sul tuo computer.
+    * Vai su https://github.com/davideriboli/ProgettoMida
+    * Clicca sul pulsante verde in alto a dx e poi **Download ZIP**
+    * Estrai la cartella sul tuo computer
 2.  **Aprilo con Obsidian:**
-    * Se non lo hai ancora, scarica [Obsidian](https://obsidian.md).
-    * Scegli l'opzione *Open folder as vault* (Apri cartella come vault) e seleziona la cartella estratta.
+    * Se non lo hai ancora, scarica [Obsidian](https://obsidian.md)
+    * Scegli l'opzione *Open folder as vault* (Apri cartella come vault) e seleziona la cartella estratta
 
 ## Licenze e Copyright
 
