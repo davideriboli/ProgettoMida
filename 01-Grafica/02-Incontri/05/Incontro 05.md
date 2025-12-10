@@ -4,7 +4,7 @@ description: Programma dettagliato dell'incontro 05
 tags:
   - incontro
   - grafica
-date: mar. 16/12/2025
+date: "ven. 19/12/2025"
 ---
 
 # Incontro 05 - Consolidamento e strategie didattiche

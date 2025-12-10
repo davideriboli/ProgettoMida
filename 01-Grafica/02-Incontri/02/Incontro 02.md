@@ -2,7 +2,7 @@
 title: Incontro 02 - Architetture Cognitive e Custom Agents
 description: "Programma dettagliato dell'incontro 02"
 tags: [incontro, grafica,]
-date: "mar. 09/12/2025"
+date: "mar. 11/12/2025"
 ---
 
 # Incontro 02 - Architetture Cognitive e Custom Agents

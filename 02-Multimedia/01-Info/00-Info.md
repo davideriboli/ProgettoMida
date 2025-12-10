@@ -20,10 +20,10 @@ date: "dom. 23/11/2025"
 
 ## Calendario incontri
 
-1. 18 dicembre 2025 | [Incontro 01](02-Multimedia/02-Incontri/01/Incontro%2001.md)
-2. 19 dicembre 2025 | [Incontro 02](02-Multimedia/02-Incontri/02/Incontro%2002.md)
-3. 20 dicembre 2025 | [Incontro 03](02-Multimedia/02-Incontri/03/Incontro%2003.md)
-4. 22 dicembre 2025 | [Incontro 04](02-Multimedia/02-Incontri/04/Incontro%2004.md)
+1. 16 dicembre 2025 | [Incontro 01](02-Multimedia/02-Incontri/01/Incontro%2001.md)
+2. 20 dicembre 2025 | [Incontro 02](02-Multimedia/02-Incontri/02/Incontro%2002.md)
+3. 22 dicembre 2025 | [Incontro 03](02-Multimedia/02-Incontri/03/Incontro%2003.md)
+4. 07 dicembre 2025 | [Incontro 04](02-Multimedia/02-Incontri/04/Incontro%2004.md)
 5. 08 gennaio 2026 (DAD ?) | [Incontro 05](02-Multimedia/02-Incontri/05/Incontro%2005.md)
 
 > [!Orario per tutti gli incontri]

@@ -4,7 +4,7 @@ description: Programma dettagliato dell'incontro 05 - Modulo Video/Audio
 tags:
   - incontro
   - multimedia
-date: mar. 08/01/2026
+date: "mer. 08/01/2026"
 ---
 
 # Incontro 05 - Final Cut e Prospettive Didattiche

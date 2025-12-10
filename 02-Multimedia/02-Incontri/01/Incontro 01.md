@@ -6,7 +6,7 @@ tags:
   - multimedia
   - video
   - suno
-date: mar. 18/12/2025
+date: "mar. 16/12/2025"
 ---
 
 # Incontro 01: Framework e Setup (Multimedia)

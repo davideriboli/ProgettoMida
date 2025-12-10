@@ -4,7 +4,7 @@ description: Programma dettagliato dell'incontro 04 - Modulo Video/Audio
 tags:
   - incontro
   - multimedia
-date: lun. 23/12/2025
+date: "mer. 07/01/2026"
 ---
 
 # Incontro 04 - Produzione e Regia Virtuale

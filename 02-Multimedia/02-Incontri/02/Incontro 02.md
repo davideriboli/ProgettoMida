@@ -6,7 +6,7 @@ tags:
   - multimedia
   - suno
   - storytelling
-date: mer. 19/12/2025
+date: "sab. 20/12/2025"
 ---
 
 # Incontro 02: Dal Testo al Suono, dal Suono all'Immagine

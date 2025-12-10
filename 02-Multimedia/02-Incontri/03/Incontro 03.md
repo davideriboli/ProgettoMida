@@ -5,7 +5,7 @@ tags:
   - incontro
   - multimedia
   - gem
-date: ven. 20/12/2025
+date: "lun. 22/12/2025"
 ---
 
 # Incontro 03 - Pre-Produzione e Regia Virtuale

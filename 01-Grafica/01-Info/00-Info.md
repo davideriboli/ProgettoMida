@@ -24,8 +24,8 @@ date: "dom. 23/11/2025"
 1. 09 dicembre 2025 | [Incontro 01](Incontro%2001.md)
 2. 11 dicembre 2025 | [Incontro 02](01-Grafica/02-Incontri/02/Incontro%2002.md)
 3. 15 dicembre 2025 | [Incontro 03](Incontro%2003.md)
-4. 16 dicembre 2025 | [Incontro 04](Incontro%2004.md)
-5. 07 gennaio 2026 (DAD ?) | [Incontro 05](Incontro%2005.md)
+4. 18 dicembre 2025 | [Incontro 04](Incontro%2004.md)
+5. 19 dicembre 2025 (DAD ?) | [Incontro 05](Incontro%2005.md)
 
 > [!Orario per tutti gli incontri]
 > **14:30/18:30**

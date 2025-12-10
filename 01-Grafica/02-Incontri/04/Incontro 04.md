@@ -2,7 +2,7 @@
 title: Incontro 04 - Produzione intensiva
 description: "Programma dettagliato dell'incontro 04"
 tags: [incontro, grafica,]
-date: "mar. 16/12/2025"
+date: "mar. 18/12/2025"
 ---
 
 # Incontro 04 - Produzione intensiva
